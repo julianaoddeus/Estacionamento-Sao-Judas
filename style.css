@@ -57,7 +57,7 @@
         align-items: center;
         justify-content:space-around;
     }
-
+    
     .conteudo-principal-marcas {
         display: flex;
         gap: 24px;
@@ -113,6 +113,7 @@
         text-align: justify; 
         
     }
+   
     .rodape {
         padding: 36px;
         border-top:0.4px solid #478797;
